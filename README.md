@@ -10,9 +10,9 @@
 * Updated LinkedIn profile - added bootcamp info under education
 ### Links
 
-[Link to the deployed website](https://larafoster.github.io/Portfolio-Project/)
+[Link to the deployed website](https://larafoster.github.io/Resume-and-Portfolio/)
 
-[Link to the code repository](https://github.com/larafoster/Portfolio-Project)
+[Link to the code repository](https://github.com/larafoster/Resume-and-Portfolio)
 
 ## Installation
 
